@@ -1,1 +1,2 @@
-github "ReactiveX/RxSwift" >= 3.4
+git "https://github.ncsoft.com/MediaTalkClientTeam/RxSwift.git" "39a1766452d4b78ebb52caa327f29ebc918d23fd"
+#github "ReactiveX/RxSwift" >= 3.4
