@@ -11,7 +11,7 @@ let package = Package(
     .library(name: "RxExpect", targets: ["RxExpect"]),
   ],
   dependencies: [
-    .package(url: "https://github.ncsoft.com/MediaTalkClientTeam/RxSwift.git", .revision("f8d69339ba6081e0557b40a58856cc4414fa048c")),
+    .package(url: "https://github.ncsoft.com/MediaTalkClientTeam/RxSwift.git", .revision("7b410ba9fad7d7201e0a94e692a405c10e976314")),
   ],
   targets: [
     .target(name: "RxExpect", dependencies: ["RxSwift", "RxTest"]),
